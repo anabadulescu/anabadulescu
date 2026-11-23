@@ -26,10 +26,10 @@ Most of my code lives in private repos. This page is the window display.
 | | venture | what it is | stage |
 |:-:|:--|:--|:--|
 | ✦ | **[Forecraft](https://forecraft.tech)** | financial readiness & close scoring for advisors and finance teams | `piloting` |
-| ✦ | **Studio Clar** | AI automation & implementation for Romanian businesses | `early` |
+| ✦ | **[Studio Clar](https://studioclar.com)** | AI automation & implementation for Romanian businesses | `early` |
 | ✦ | **[Octavia Studios](https://instagram.com/octaviastudiosss)** | Romania × Côte d'Azur lifestyle brand | `growing` |
 | ✦ | **[anabadulescu.com](https://anabadulescu.com)** | my editorial home on the internet | `live` |
-| ✦ | **Debits & Coffee** | brand & content for my mom's accounting venture | `supporting` |
+| ✦ | **[Debits & Coffee](https://debitsandcoffee.tech)** | brand & content for my mom's accounting venture | `supporting` |
 
 <img src="./divider.svg" width="100%">
 
