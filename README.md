@@ -50,24 +50,21 @@ Most of my code lives in private repos. This page is the window display.
 
 ### *the toolkit*
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-15131A?style=flat-square&logo=typescript&logoColor=F3EFE7">
-  <img src="https://img.shields.io/badge/React-15131A?style=flat-square&logo=react&logoColor=F3EFE7">
-  <img src="https://img.shields.io/badge/Next.js-15131A?style=flat-square&logo=nextdotjs&logoColor=F3EFE7">
-  <img src="https://img.shields.io/badge/Python-15131A?style=flat-square&logo=python&logoColor=F3EFE7">
-  <img src="https://img.shields.io/badge/GSAP-15131A?style=flat-square&logo=greensock&logoColor=F3EFE7">
-  <img src="https://img.shields.io/badge/Vercel-15131A?style=flat-square&logo=vercel&logoColor=F3EFE7">
-  <img src="https://img.shields.io/badge/Google_Cloud-15131A?style=flat-square&logo=googlecloud&logoColor=F3EFE7">
-  <img src="https://img.shields.io/badge/Gemini-15131A?style=flat-square&logo=googlegemini&logoColor=F3EFE7">
-  <img src="https://img.shields.io/badge/Notion-15131A?style=flat-square&logo=notion&logoColor=F3EFE7">
-  <img src="https://img.shields.io/badge/Figma-15131A?style=flat-square&logo=figma&logoColor=F3EFE7">
-</p>
+<sub>pulled from what I actually ship: my repos, résumé and Credly</sub>
+
+| | |
+|:--|:--|
+| `languages` | <img src="https://img.shields.io/badge/TypeScript-15131A?style=flat-square&logo=typescript&logoColor=F3EFE7"> <img src="https://img.shields.io/badge/JavaScript-15131A?style=flat-square&logo=javascript&logoColor=F3EFE7"> <img src="https://img.shields.io/badge/Python-15131A?style=flat-square&logo=python&logoColor=F3EFE7"> <img src="https://img.shields.io/badge/Java-15131A?style=flat-square&logo=openjdk&logoColor=F3EFE7"> <img src="https://img.shields.io/badge/C%2B%2B-15131A?style=flat-square&logo=cplusplus&logoColor=F3EFE7"> <img src="https://img.shields.io/badge/SQL-15131A?style=flat-square&logo=postgresql&logoColor=F3EFE7"> <img src="https://img.shields.io/badge/HTML%2FCSS-15131A?style=flat-square&logo=html5&logoColor=F3EFE7"> |
+| `frameworks` | <img src="https://img.shields.io/badge/Next.js-15131A?style=flat-square&logo=nextdotjs&logoColor=F3EFE7"> <img src="https://img.shields.io/badge/React-15131A?style=flat-square&logo=react&logoColor=F3EFE7"> <img src="https://img.shields.io/badge/Astro-15131A?style=flat-square&logo=astro&logoColor=F3EFE7"> <img src="https://img.shields.io/badge/Tailwind_CSS-15131A?style=flat-square&logo=tailwindcss&logoColor=F3EFE7"> <img src="https://img.shields.io/badge/Prisma-15131A?style=flat-square&logo=prisma&logoColor=F3EFE7"> <img src="https://img.shields.io/badge/FastAPI-15131A?style=flat-square&logo=fastapi&logoColor=F3EFE7"> <img src="https://img.shields.io/badge/Flask-15131A?style=flat-square&logo=flask&logoColor=F3EFE7"> <img src="https://img.shields.io/badge/Motion-15131A?style=flat-square&logo=framer&logoColor=F3EFE7"> |
+| `ai` | <img src="https://img.shields.io/badge/Gemini_%26_ADK-B42318?style=flat-square&logo=googlegemini&logoColor=F3EFE7"> <img src="https://img.shields.io/badge/LangChain-15131A?style=flat-square&logo=langchain&logoColor=F3EFE7"> <img src="https://img.shields.io/badge/OpenAI-15131A?style=flat-square&logo=openai&logoColor=F3EFE7"> <img src="https://img.shields.io/badge/watsonx-15131A?style=flat-square&logo=ibm&logoColor=F3EFE7"> |
+| `data & cloud` | <img src="https://img.shields.io/badge/PostgreSQL-15131A?style=flat-square&logo=postgresql&logoColor=F3EFE7"> <img src="https://img.shields.io/badge/Neon-15131A?style=flat-square"> <img src="https://img.shields.io/badge/Upstash_Redis-15131A?style=flat-square&logo=upstash&logoColor=F3EFE7"> <img src="https://img.shields.io/badge/Vercel-15131A?style=flat-square&logo=vercel&logoColor=F3EFE7"> <img src="https://img.shields.io/badge/Google_Cloud-15131A?style=flat-square&logo=googlecloud&logoColor=F3EFE7"> <img src="https://img.shields.io/badge/Azure-15131A?style=flat-square&logo=microsoftazure&logoColor=F3EFE7"> <img src="https://img.shields.io/badge/IBM_Cloud-15131A?style=flat-square&logo=ibmcloud&logoColor=F3EFE7"> <img src="https://img.shields.io/badge/Docker-15131A?style=flat-square&logo=docker&logoColor=F3EFE7"> <img src="https://img.shields.io/badge/Kubernetes-15131A?style=flat-square&logo=kubernetes&logoColor=F3EFE7"> <img src="https://img.shields.io/badge/GitHub_Actions-15131A?style=flat-square&logo=githubactions&logoColor=F3EFE7"> |
+| `product & quality` | <img src="https://img.shields.io/badge/Stripe-15131A?style=flat-square&logo=stripe&logoColor=F3EFE7"> <img src="https://img.shields.io/badge/Resend-15131A?style=flat-square&logo=resend&logoColor=F3EFE7"> <img src="https://img.shields.io/badge/Sentry-15131A?style=flat-square&logo=sentry&logoColor=F3EFE7"> <img src="https://img.shields.io/badge/PostHog-15131A?style=flat-square&logo=posthog&logoColor=F3EFE7"> <img src="https://img.shields.io/badge/Playwright-15131A?style=flat-square"> <img src="https://img.shields.io/badge/Vitest-15131A?style=flat-square&logo=vitest&logoColor=F3EFE7"> <img src="https://img.shields.io/badge/Figma-15131A?style=flat-square&logo=figma&logoColor=F3EFE7"> <img src="https://img.shields.io/badge/Tableau-15131A?style=flat-square"> <img src="https://img.shields.io/badge/Agile%2FScrum-15131A?style=flat-square"> |
 
 <img src="./divider.svg" width="100%">
 
 ### *notes in the margin*
 
-- 🌍 English · Română · Français
+- 🌍 English · Română · Français · Español (intermediate)
 - ☕ currently obsessed with motion design, editorial type and slow mornings
 - 📮 collaborations, ideas, or just *bonjour*: [hello@anabadulescu.com](mailto:hello@anabadulescu.com)
 
